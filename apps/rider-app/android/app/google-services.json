@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "654091121232",
+    "project_id": "onroad-aa5f1",
+    "storage_bucket": "onroad-aa5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654091121232:android:596dc94d038fc1f3eb9755",
+        "android_client_info": {
+          "package_name": "com.onroad.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654091121232-15g0fehoju3kqi3kunv6p1f5mgsreefv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwtFhlQ_z-dqZ-Gh0GfuefgYgE4vW-no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654091121232-15g0fehoju3kqi3kunv6p1f5mgsreefv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654091121232-2ljtt137dsnabqkg6vn6umgrsaoioqib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onroad-driver.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654091121232:android:400490f6fe34fadaeb9755",
+        "android_client_info": {
+          "package_name": "com.onrode_driver.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654091121232-15g0fehoju3kqi3kunv6p1f5mgsreefv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwtFhlQ_z-dqZ-Gh0GfuefgYgE4vW-no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654091121232-15g0fehoju3kqi3kunv6p1f5mgsreefv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654091121232-2ljtt137dsnabqkg6vn6umgrsaoioqib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onroad-driver.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
